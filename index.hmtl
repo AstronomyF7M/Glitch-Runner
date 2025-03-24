@@ -110,6 +110,9 @@
    // Start the game loop
    gameLoop();
   </script>
+<script src="script.js"></script>
+
  </body>
+<link rel="stylesheet" href="style.css">
 
  </html>
